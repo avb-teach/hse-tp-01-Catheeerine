@@ -9,7 +9,7 @@
 `collect_files.sh /path/to/input_dir /path/to/output_dir`
 
 Скрипт должен быть в корне репозитория
-
+vldfjv ldfjv
 Пример:
 
 `./collect_files.sh /home/input_dir /home/output_dir`
